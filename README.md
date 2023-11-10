@@ -1,4 +1,4 @@
 # css
  curso de css
 
-<a href="http://youtube.com">site do android<a>
+<a href="">site do android<a>
